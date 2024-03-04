@@ -123,7 +123,9 @@ a:active {
     margin-right: auto;
 }
 
-
+.footer {
+    padding: var(--footer-padding);
+}
 
 
 
